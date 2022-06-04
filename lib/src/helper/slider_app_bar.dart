@@ -16,7 +16,7 @@ class SliderAppBar extends StatelessWidget {
 
   ///[Color] you can change appbar color by this parameter [appBarColor]
   ///
-  final Color? appBarColor;
+  final Color appBarColor;
 
   ///[EdgeInsets] you can change appBarPadding by this parameter [appBarPadding]
   ///
